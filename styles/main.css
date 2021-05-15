@@ -30,3 +30,11 @@ body {
     height: 32px;
     padding: 5px;
 }
+
+.list-content{
+    padding: 10px;
+}
+
+#add{
+    background-color: aquamarine;
+}
